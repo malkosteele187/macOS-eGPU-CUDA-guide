@@ -1,4 +1,4 @@
-
+﻿
 # Selects the right xcode for normal usage or CUDA usage
 
 PS3='xcode version selector: '
